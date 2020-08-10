@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Open web application in browser
+```
+Open browser with following url: http://localhost:8080/ 
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
@@ -19,6 +24,7 @@ npm run build
 ```
 npm run lint
 ```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
